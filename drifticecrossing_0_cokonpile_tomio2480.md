@@ -1,3 +1,7 @@
+# 各種コンテンツ
+音声 : https://soundcloud.com/cybozutech/tomio2480?in=cybozutech/sets/drifticecrossing  
+記事 : https://note.com/hiroko_kamata/n/nacb86381d9e0  
+
 # 文字起こし内容
 ## オープニング 00:00
 西原： みなさまこんにちは、西原です。サイボウズ株式会社 開発本部にあります、コネクト支援チームというところに所属している者です。
