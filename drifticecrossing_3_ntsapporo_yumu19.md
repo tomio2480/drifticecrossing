@@ -1,6 +1,6 @@
 # 各種コンテンツ    
 音声 : https://soundcloud.com/cybozutech/yumu19?in=cybozutech/sets/drifticecrossing    
-記事 : 近日公開    
+記事 : https://note.com/hiroko_kamata/n/nbdb5dd88d48d    
     
 # 文字起こし内容    
 ## オープニング 00:00    
