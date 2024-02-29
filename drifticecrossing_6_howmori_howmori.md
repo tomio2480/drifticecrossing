@@ -591,6 +591,6 @@ Share Link:https://app.notta.ai/share/a404ed99-f4f2-4a0c-b2b5-f72478cbee1a
 
 この文字起こしは CC BY-SA で提供します．
 これ以外のライセンスをご希望の場合は以下までお問い合わせください．
- 
+
 お問い合わせ先 : insideout{at}cybozu.co.jp ({at}→@ に読み替えてください)
 担当：サイボウズ株式会社 開発本部 コネクト支援チーム 西原・風穴
