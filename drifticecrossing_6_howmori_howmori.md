@@ -2,7 +2,7 @@ Share Link:https://app.notta.ai/share/a404ed99-f4f2-4a0c-b2b5-f72478cbee1a
 
 # 各種コンテンツ
 音声 : https://soundcloud.com/cybozutech/howmori?in=cybozutech/sets/drifticecrossing  
-記事 : TBD  
+記事 : https://note.com/hiroko_kamata/n/n1675de0dab20?magazine_key=m9707f4c496e6  
 
 # オープニング
 西原  
